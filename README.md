@@ -1,2 +1,1 @@
-# Ai-Practical-6-
-Ai Practical 6 
+AI-2D-Data-Reading
