@@ -3,13 +3,14 @@ function test() {
     let data = [
 
         [1, "Chinthaka", "Moneragala"],
-        [2, "Nimal", "Colombo"],
-        [3, "Kumari", "Kandy"]
+        [2, "Kasun", "Kandy"],
 
     ];
 
+    for (let x = 0; x < data.length; x++) {
 
+        console.log(data[x][1]);
 
-    console.log(data);
+    }
 
 }
